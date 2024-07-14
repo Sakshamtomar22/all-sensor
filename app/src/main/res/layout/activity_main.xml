@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:ignore="ExtraText">
+
+
+
+        <TextView
+            android:id="@+id/accelerometerData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accelerometer Data: "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/gyroscopeData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gyroscope Data: "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/magnetometerData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Magnetometer Data: "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/gravitySensorData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gravity Sensor Data: "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/linearAccelerationData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Linear Acceleration Data: "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/rotationVectorData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rotation Vector Data: "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/lightSensorData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Light Sensor Data: "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/proximitySensorData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Proximity Sensor Data: "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+</LinearLayout>
+
