@@ -1,4 +1,4 @@
-<resources xmlns="http://schemas.android.com/tools" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<resources xmlns="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.New" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
